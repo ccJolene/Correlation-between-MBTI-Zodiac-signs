@@ -13,3 +13,6 @@ With this data, we'll dive deep into the relationship between zodiac signs and M
 But just a heads-up, we're here to enjoy the process, not to conduct serious scientific research. Remember, correlation doesn't equal causation. However, who doesn't love uncovering a fun mystery?
 
 So, grab your detective hats and let's embark on this journey where astrology and MBTI types collide! 🎉🔥
+
+![image](https://github.com/ccJolene/Correlation-between-MBTI-Zodiac-signs/assets/133077350/2f1407ba-f822-49c8-9743-a58902bab4e3)
+(Source: Wikipedia)
